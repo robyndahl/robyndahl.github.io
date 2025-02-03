@@ -1,7 +1,3 @@
----
-title: "Robyn Mieko Dahl - WWU"
----
-
 ## Geoscience Education Research & Paleontology at WWU
 
 Welcome! Here in the Dahl Research Group we do a lot of geoscience education research (GER) and a little bit of paleontology research. Head on over the research page to learn about current and past research projects, or check out the people page to see what types of projects current and former students have worked while part of the Dahl Research Group.
