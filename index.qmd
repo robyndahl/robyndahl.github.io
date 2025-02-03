@@ -1,7 +1,5 @@
 ---
 title: "Robyn Mieko Dahl - WWU"
-format: html
-editor: visual
 ---
 
 ## Geoscience Education Research & Paleontology at WWU
