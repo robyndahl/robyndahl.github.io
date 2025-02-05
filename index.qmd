@@ -1,0 +1,7 @@
+---
+title: "Geoscience Ed & Paleontology at WWU"
+---
+
+![](images/frond-01.gif){fig-align="center" width="450"}
+
+Welcome to the Dahl Research Group website! Here you'll find information about research in geoscience education and paleontology at Western Washington University.

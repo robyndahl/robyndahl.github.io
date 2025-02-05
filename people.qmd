@@ -1,0 +1,40 @@
+---
+title: "People"
+---
+
+## About Me
+
+::::: grid
+::: g-col-4
+![](images/thumbnail_IMG_1540-01.jpg)
+:::
+
+::: g-col-8
+I am an associate professor of geology and science education, and a member of both the [Geology Department](https://geology.wwu.edu/) and the [SMATE (Science, Math and Technology Education) Group](https://smate.wwu.edu/) at [Western Washington University](https://www.wwu.edu/). I earned both my PhD and MS in Earth Science at the [University of Riverside, CA](https://epsci.ucr.edu/) and my BA in Geology at [Oberlin College](https://www.oberlin.edu/arts-and-sciences/departments/geosciences).
+
+My professional training is in marine paleoecology, with a focus on Ordovician gastropod evolution, but I have also developed a research program in geoscience education, with a focus on equity and justice in geoscience.
+
+I am a member of the [Paleontological Society](https://www.paleosoc.org/) (PS), the [Geological Society of America](https://www.geosociety.org/) (GSA), and the [National Association of Geoscience Teachers](https://nagt.org/index.html) (NAGT). I currently serve on [Geoscience Advisory Committee](https://new.nsf.gov/geo/advisory-committee) for the National Science Foundation, and previously served on the management board of the [Geoscience Education Division](https://community.geosociety.org/gedivision/home) of GSA.
+:::
+:::::
+
+## Current Members
+
+-   Mattie Horne
+    -   Thesis: *Using exploration-based activities and 3D-modeled fossils as tools to introduce geoscience concepts in the classroom*
+
+## Past Members
+
+-   Willa Rowan (WWU M.S. 2023)
+
+    -   Thesis: *A mixed-methods study of geoscience identity, race/ethnicity, and gender in senior undergraduate geoscience majors* ([read on CEDAR](https://cedar.wwu.edu/wwuet/1237/))
+
+-   Eston Worthington (WWU M.S. 2021)
+
+    -   Thesis: *Reevaluating the use of mollusks for estimating paleodepth in the Pacific Northwest* ([read on CEDAR](https://cedar.wwu.edu/wwuet/1051/))
+
+-   Alex Hernandez (WWU M.S. 2021)
+
+    -   Thesis: *Marine ecosystem response to Late Plesitocene rapid climate change in the Salish Sea* ([read on CEDAR](https://cedar.wwu.edu/wwuet/1014/))
+
+    -   Currently: completing his doctorate at the University of Bremen

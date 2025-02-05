@@ -1,0 +1,41 @@
+---
+title: "Current Research"
+---
+
+::: callout-note
+If you are interested in working with me on a research project, please contact me at [dahlr4\@wwu.edu](dahlr4@wwu.edu). I'm always looking for undergraduate and masters students to join the lab!
+:::
+
+## Geoscience Education
+
+As a geoscience education researcher, I am broadly interested issues of equity and justice in geoscience. This interest has led to research projects on:
+
+-   **Geoscience identity formation:** how undergraduate students develop their sense of identity as a geoscientist
+
+-   **Lab Camp:** a more accessible and inclusive alternative to traditional field camp
+
+-   **Critical educational transitions:** identifying and mitigating the barriers that geoscience students encounter as they transition from institution to institution or educational stage to stage
+
+-   **Academic hiring networks:** using social network analysis to identify patterns of inequity in academic hiring in geoscience
+
+-   **Digitized 3D models:** examining how students interact with and learn from digitizd specimen models
+
+    -   Check out some models of WWU Geology Department specimens at our [Sketchfab repository](https://sketchfab.com/WWUGeology)
+
+## Paleontology
+
+I am most interested in marine paleoecology, and have studied ecosystems up and down the geologic timescale, from looking at the environmental context of gastropods during the Great Ordovician Biodiversification Event to examining how Pleistocene marine ecosystems responded to the retreat of the Cordilleran Ice Sheet.
+
+While my primary research are is geoscience education, I am open to working with students (especially undergrads) on paleo research projects.
+
+## Recent Publications
+
+Kelly, B.T., R.M. Dahl, W.T. Phelps and M.L. Droser (2024) [Strengthening geoscience education pathways for underrepresented students from two-year to four-year institutions](https://www.tandfonline.com/doi/abs/10.1080/10899995.2023.2279036). *Journal of Geoscience Education*, 72(3):258-269.
+
+Dahl, R.M. (2023) [Geoscience academic hiring networks reinforce historic patterns fo inequity](https://pubs.geoscienceworld.org/gsa/geosphere/article/19/6/1528/628017/Geoscience-academic-hiring-networks-reinforce). *Geosphere*, 19(6):1528-1538.
+
+Dahl, R.M. (2018) [Student-Centered Teaching in Paleontology and Geoscience Classrooms](https://www.cambridge.org/core/elements/studentcentered-teaching-in-paleontology-and-geoscience-classrooms/DDC769FE0CD6A10C94DC8D7FB56E4A3C). Cambridge: Cambridge University Press.
+
+Petcovic, H.L., J. Cervenec, K. Cheek, R. Dahl and N. Price. (2018) [Research on elementary, middle, and secondary earth and space sciences teacher education](https://commons.lib.jmu.edu/ger_framework/4/). In St. John, K. (ed.) Community Framework for Geoscience Education Research. National Association of Geoscience Teachers.
+
+Dahl, R.M. and M.L. Droser (2016) [Building an effective and affordable K-12 geoscience education outreach program from the ground up: A simple model for universities](https://www.tandfonline.com/doi/full/10.5408/15-100.1). *Journal of Geoscience Education*, 64(1):5-16,
