@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Robyn Mieko Dahl"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: people.qmd
+        text: People
+    right:
+      - icon: envelope
+        href: mailto:dahlr4@wwu.edu
+
+format:
+  html:
+    theme:
+      - united
+    css: styles.css
+    toc: true
+
+editor: visual
+
