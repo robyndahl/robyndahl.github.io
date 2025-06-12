@@ -2,15 +2,13 @@
 title: "Teaching"
 ---
 
-## Current Courses
+## Courses for Fall 2025
 
-GEOL 212: Historical Geology
-
-SCED 370: STEM & Society
+SCED 201: Matter & Energy in Physical Systems
 
 ## Current Office Hours
 
-Mondays & Thursdays, 12-1pm in ES 340, or by appointment
+By appointment
 
 ## WWU Courses Regularly Taught
 
@@ -59,7 +57,7 @@ In this course, we will explore the meaning and importance of scientific literac
 +--------------+-------------------------------------+-------------------------------------+-------------------------------------+
 | Year         | Winter                              | Spring                              | Fall                                |
 +==============+=====================================+=====================================+=====================================+
-| 2025         | Historical Geology                  | Historical Geology                  |                                     |
+| 2025         | Historical Geology                  | Historical Geology                  | Matter & Energy in Physical Systems |
 |              |                                     |                                     |                                     |
 |              |                                     | STEM & Society                      |                                     |
 +--------------+-------------------------------------+-------------------------------------+-------------------------------------+
