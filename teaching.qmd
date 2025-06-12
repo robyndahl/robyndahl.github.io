@@ -54,42 +54,42 @@ In this course, we will explore the meaning and importance of scientific literac
 
 ## Teaching History
 
-+--------------+-------------------------------------+-------------------------------------+-------------------------------------+
-| Year         | Winter                              | Spring                              | Fall                                |
-+==============+=====================================+=====================================+=====================================+
-| 2025         | Historical Geology                  | Historical Geology                  | Matter & Energy in Physical Systems |
-|              |                                     |                                     |                                     |
-|              |                                     | STEM & Society                      |                                     |
-+--------------+-------------------------------------+-------------------------------------+-------------------------------------+
-| 2024         | Historical Geology                  | *parental leave*                    | Paleontology                        |
-|              |                                     |                                     |                                     |
-|              | Matter & Energy in the Earth System |                                     | STEM & Society                      |
-+--------------+-------------------------------------+-------------------------------------+-------------------------------------+
-| 2023         | Paleontology                        | Historical Geology                  | STEM & Society                      |
-|              |                                     |                                     |                                     |
-|              |                                     | Matter & Energy in the Earth System |                                     |
-+--------------+-------------------------------------+-------------------------------------+-------------------------------------+
-| 2022         | *parental leave*                    | *parental leave*                    | Historical Geology                  |
-|              |                                     |                                     |                                     |
-|              |                                     |                                     | STEM & Society                      |
-+--------------+-------------------------------------+-------------------------------------+-------------------------------------+
-| 2021         | Paleontology                        | Paleontology                        | Advanced Paleobiology               |
-|              |                                     |                                     |                                     |
-|              | Matter & Energy in the Earth System | STEM & Society                      | STEM & Society                      |
-+--------------+-------------------------------------+-------------------------------------+-------------------------------------+
-| 2020         | Matter & Energy in Physical Systems | Paleontology                        | Paleontology                        |
-|              |                                     |                                     |                                     |
-|              |                                     | Matter & Energy in the Earth System |                                     |
-+--------------+-------------------------------------+-------------------------------------+-------------------------------------+
-| 2019         | Advanced Paleobiology               | Historical Geology                  | Historical Geology                  |
-|              |                                     |                                     |                                     |
-|              | Matter & Energy in the Earth System | Matter & Energy in the Earth System |                                     |
-+--------------+-------------------------------------+-------------------------------------+-------------------------------------+
-| 2018         | Matter & Energy in Physical Systems | Historical Geology                  | Paleontology                        |
-|              |                                     |                                     |                                     |
-|              |                                     | Matter & Energy in Physical Systems |                                     |
-+--------------+-------------------------------------+-------------------------------------+-------------------------------------+
-| 2017         | Earth Materials                     | Earth Materials                     | Earth Materials                     |
-|              |                                     |                                     |                                     |
-|              |                                     | Matter & Energy in the Earth System | Matter & Energy in the Earth System |
-+--------------+-------------------------------------+-------------------------------------+-------------------------------------+
++------+-------------------------------------+-------------------------------------+-------------------------------------+
+| Year | Winter                              | Spring                              | Fall                                |
++======+=====================================+=====================================+=====================================+
+| 2025 | Historical Geology                  | Historical Geology                  | Matter & Energy in Physical Systems |
+|      |                                     |                                     |                                     |
+|      |                                     | STEM & Society                      |                                     |
++------+-------------------------------------+-------------------------------------+-------------------------------------+
+| 2024 | Historical Geology                  | *parental leave*                    | Paleontology                        |
+|      |                                     |                                     |                                     |
+|      | Matter & Energy in the Earth System |                                     | STEM & Society                      |
++------+-------------------------------------+-------------------------------------+-------------------------------------+
+| 2023 | Paleontology                        | Historical Geology                  | STEM & Society                      |
+|      |                                     |                                     |                                     |
+|      |                                     | Matter & Energy in the Earth System |                                     |
++------+-------------------------------------+-------------------------------------+-------------------------------------+
+| 2022 | *parental leave*                    | *parental leave*                    | Historical Geology                  |
+|      |                                     |                                     |                                     |
+|      |                                     |                                     | STEM & Society                      |
++------+-------------------------------------+-------------------------------------+-------------------------------------+
+| 2021 | Paleontology                        | Paleontology                        | Advanced Paleobiology               |
+|      |                                     |                                     |                                     |
+|      | Matter & Energy in the Earth System | STEM & Society                      | STEM & Society                      |
++------+-------------------------------------+-------------------------------------+-------------------------------------+
+| 2020 | Matter & Energy in Physical Systems | Paleontology                        | Paleontology                        |
+|      |                                     |                                     |                                     |
+|      |                                     | Matter & Energy in the Earth System |                                     |
++------+-------------------------------------+-------------------------------------+-------------------------------------+
+| 2019 | Advanced Paleobiology               | Historical Geology                  | Historical Geology                  |
+|      |                                     |                                     |                                     |
+|      | Matter & Energy in the Earth System | Matter & Energy in the Earth System |                                     |
++------+-------------------------------------+-------------------------------------+-------------------------------------+
+| 2018 | Matter & Energy in Physical Systems | Historical Geology                  | Paleontology                        |
+|      |                                     |                                     |                                     |
+|      |                                     | Matter & Energy in Physical Systems |                                     |
++------+-------------------------------------+-------------------------------------+-------------------------------------+
+| 2017 | Earth Materials                     | Earth Materials                     | Earth Materials                     |
+|      |                                     |                                     |                                     |
+|      |                                     | Matter & Energy in the Earth System | Matter & Energy in the Earth System |
++------+-------------------------------------+-------------------------------------+-------------------------------------+
